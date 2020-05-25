@@ -1,0 +1,16 @@
+D:\InventoryManagementSystem\IMS\IMS\bin\Debug\IMS.exe.config
+D:\InventoryManagementSystem\IMS\IMS\bin\Debug\IMS.exe
+D:\InventoryManagementSystem\IMS\IMS\bin\Debug\IMS.pdb
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.MDi.resources
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.Sample.resources
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.exe
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.pdb
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.login.resources
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.Settings.resources
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.homeScreen.resources
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.Sample2.resources
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.Users.resources
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.products.resources
+D:\InventoryManagementSystem\IMS\IMS\obj\Debug\IMS.categories.resources
